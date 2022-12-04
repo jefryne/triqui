@@ -1,0 +1,29 @@
+td{
+    height: 150px;
+    border-width: 3px;
+    border-bottom: none;
+}
+
+body{
+    background-color: #900C3F ;
+}
+
+.tabla{
+    margin-top: 100px;
+}
+
+.texto_none{
+    color: #900C3F;
+}
+
+.borde_arriba{
+    border-top: none;
+}
+
+.borde_derecha{
+    border-right: none;
+}
+
+.borde_izquierda{
+    border-left: none;
+}
